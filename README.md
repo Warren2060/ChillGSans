@@ -18,7 +18,7 @@
 <br>
 ![Chill G Sans1](https://user-images.githubusercontent.com/87366329/145032036-d552b395-bc42-4619-aa48-16a97092594c.png)
 ![Chill G Sans2](https://user-images.githubusercontent.com/87366329/145032053-2c3ce44f-970e-4deb-905a-e01bce049e53.png)
-![Chill G Sans3](https://user-images.githubusercontent.com/87366329/145032070-5955ee01-72a8-4231-bdd5-744d2c53d2d4.png)
 ![Chill G Sans4](https://user-images.githubusercontent.com/87366329/145032087-34aaf42f-77d9-4fc0-9aad-1880c6c4baba.png)
+![Chill G Sans3](https://user-images.githubusercontent.com/87366329/145032070-5955ee01-72a8-4231-bdd5-744d2c53d2d4.png)
 
-字体文件以 SIL Open Font License 1.1 发布，此仓库中构建字体开发的代码以 MIT License 发布。
+字体文件以 SIL Open Font License 1.1 发布。
