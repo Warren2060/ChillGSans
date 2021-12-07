@@ -16,3 +16,9 @@
 老话说取法乎上,  但窄黑体本身比较匮乏，未来荧黑在思源黑体的基础上让造型更加简明现代，同时保留了思源黑体均衡的骨架优秀基因。高黑体在未来荧黑的基础上融合手写笔意和部分旧字型，调整部分字型结构的避让关系，更简洁干净。未来荧黑是基于思源黑体的算法建模参数化调整，没有使用字体设计软件，所以许多字型轮廓并没有调节到位，高黑体在这一基础上手动检查修复近8000个字符轮廓，弥补了这一不足。未来荧黑对于这部分的字体选用Fira Sans作为英文搭配，高黑体则选用了同样开源的Cabin作为英文部分。<br />
 <br>
 <br>
+![Chill G Sans1](https://user-images.githubusercontent.com/87366329/145032036-d552b395-bc42-4619-aa48-16a97092594c.png)
+![Chill G Sans2](https://user-images.githubusercontent.com/87366329/145032053-2c3ce44f-970e-4deb-905a-e01bce049e53.png)
+![Chill G Sans3](https://user-images.githubusercontent.com/87366329/145032070-5955ee01-72a8-4231-bdd5-744d2c53d2d4.png)
+![Chill G Sans4](https://user-images.githubusercontent.com/87366329/145032087-34aaf42f-77d9-4fc0-9aad-1880c6c4baba.png)
+
+字体文件以 SIL Open Font License 1.1 发布，此仓库中构建字体开发的代码以 MIT License 发布。
